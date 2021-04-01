@@ -1,0 +1,10 @@
+{
+  "name": "Express-API",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/HussainOsama/Express-API.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
